@@ -1,18 +1,24 @@
-.app__dark {
-  background-color: black;
+.app_basic {
+  overflow-y: scroll;
   padding: 10px;
   height: 100vh;
-  overflow-y: scroll;
   transition: all 0.25s linear;
 }
 
-.app__light {
-  overflow-y: scroll;
+.app__dark {
+  background-color: black;
+}
 
+.app__light {
   background-color: white;
-  padding: 10px;
-  height: 100vh;
-  transition: all 0.25s linear;
+}
+
+.head_dark {
+  color: var(--clr-primary-4);
+}
+
+.head_light {
+  color: var(--clr-primary-1);
 }
 
 body::-webkit-scrollbar {
