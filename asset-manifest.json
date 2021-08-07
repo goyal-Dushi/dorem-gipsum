@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/lorem-ipsum/static/css/main.f8b65571.chunk.css",
-    "main.js": "/lorem-ipsum/static/js/main.004cf4d5.chunk.js",
-    "main.js.map": "/lorem-ipsum/static/js/main.004cf4d5.chunk.js.map",
-    "runtime-main.js": "/lorem-ipsum/static/js/runtime-main.6d5dc831.js",
-    "runtime-main.js.map": "/lorem-ipsum/static/js/runtime-main.6d5dc831.js.map",
-    "static/js/2.05650ee2.chunk.js": "/lorem-ipsum/static/js/2.05650ee2.chunk.js",
-    "static/js/2.05650ee2.chunk.js.map": "/lorem-ipsum/static/js/2.05650ee2.chunk.js.map",
-    "index.html": "/lorem-ipsum/index.html",
-    "static/css/main.f8b65571.chunk.css.map": "/lorem-ipsum/static/css/main.f8b65571.chunk.css.map",
-    "static/js/2.05650ee2.chunk.js.LICENSE.txt": "/lorem-ipsum/static/js/2.05650ee2.chunk.js.LICENSE.txt"
+    "main.css": "/dorem-gipsum/static/css/main.f8b65571.chunk.css",
+    "main.js": "/dorem-gipsum/static/js/main.a4ed34ef.chunk.js",
+    "main.js.map": "/dorem-gipsum/static/js/main.a4ed34ef.chunk.js.map",
+    "runtime-main.js": "/dorem-gipsum/static/js/runtime-main.ee242e4f.js",
+    "runtime-main.js.map": "/dorem-gipsum/static/js/runtime-main.ee242e4f.js.map",
+    "static/js/2.6dfca1e3.chunk.js": "/dorem-gipsum/static/js/2.6dfca1e3.chunk.js",
+    "static/js/2.6dfca1e3.chunk.js.map": "/dorem-gipsum/static/js/2.6dfca1e3.chunk.js.map",
+    "index.html": "/dorem-gipsum/index.html",
+    "static/css/main.f8b65571.chunk.css.map": "/dorem-gipsum/static/css/main.f8b65571.chunk.css.map",
+    "static/js/2.6dfca1e3.chunk.js.LICENSE.txt": "/dorem-gipsum/static/js/2.6dfca1e3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6d5dc831.js",
-    "static/js/2.05650ee2.chunk.js",
+    "static/js/runtime-main.ee242e4f.js",
+    "static/js/2.6dfca1e3.chunk.js",
     "static/css/main.f8b65571.chunk.css",
-    "static/js/main.004cf4d5.chunk.js"
+    "static/js/main.a4ed34ef.chunk.js"
   ]
 }
