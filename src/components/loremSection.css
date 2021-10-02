@@ -1,0 +1,53 @@
+.section-center {
+  width: 100%;
+  padding-top: 5rem;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/*
+  ===============
+  Lorem Ipsum Content
+  ===============
+  */
+
+h3 {
+  text-transform: uppercase;
+}
+.lorem-form {
+  text-transform: capitalize;
+  letter-spacing: var(--spacing);
+  margin-top: 2rem;
+  padding-bottom: 3rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.lorem-type {
+  font-size: 1.45rem;
+  color: var(--clr-red-light);
+  font-weight: 600;
+}
+/* input {
+  padding: 0.25rem 0.5rem;
+  width: 4rem;
+  border-radius: var(--radius);
+  border: none;
+  margin: 0 0.5rem;
+  font-size: 1.25rem;
+}
+select {
+  padding: 0.25rem 0.5rem;
+  border-radius: var(--radius);
+  border: none;
+  margin: 0 0.5rem;
+  font-size: 1.25rem;
+} */
+
+.lorem-text {
+  width: 100%;
+  font-size: 20px;
+}
