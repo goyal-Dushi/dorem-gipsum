@@ -1,20 +1,25 @@
 {
   "files": {
-    "main.css": "/dorem-gipsum/static/css/main.1e02fa42.chunk.css",
-    "main.js": "/dorem-gipsum/static/js/main.3aa17aa1.chunk.js",
-    "main.js.map": "/dorem-gipsum/static/js/main.3aa17aa1.chunk.js.map",
-    "runtime-main.js": "/dorem-gipsum/static/js/runtime-main.ee242e4f.js",
-    "runtime-main.js.map": "/dorem-gipsum/static/js/runtime-main.ee242e4f.js.map",
-    "static/js/2.40809b23.chunk.js": "/dorem-gipsum/static/js/2.40809b23.chunk.js",
-    "static/js/2.40809b23.chunk.js.map": "/dorem-gipsum/static/js/2.40809b23.chunk.js.map",
+    "main.css": "/dorem-gipsum/static/css/main.4331c867.css",
+    "main.js": "/dorem-gipsum/static/js/main.ecea2195.js",
+    "static/css/947.b383b4c6.chunk.css": "/dorem-gipsum/static/css/947.b383b4c6.chunk.css",
+    "static/js/947.01976056.chunk.js": "/dorem-gipsum/static/js/947.01976056.chunk.js",
+    "static/css/403.099d863d.chunk.css": "/dorem-gipsum/static/css/403.099d863d.chunk.css",
+    "static/js/403.174c7e9b.chunk.js": "/dorem-gipsum/static/js/403.174c7e9b.chunk.js",
+    "static/js/513.823ae5d6.chunk.js": "/dorem-gipsum/static/js/513.823ae5d6.chunk.js",
+    "static/js/44.93b2175d.chunk.js": "/dorem-gipsum/static/js/44.93b2175d.chunk.js",
     "index.html": "/dorem-gipsum/index.html",
-    "static/css/main.1e02fa42.chunk.css.map": "/dorem-gipsum/static/css/main.1e02fa42.chunk.css.map",
-    "static/js/2.40809b23.chunk.js.LICENSE.txt": "/dorem-gipsum/static/js/2.40809b23.chunk.js.LICENSE.txt"
+    "main.4331c867.css.map": "/dorem-gipsum/static/css/main.4331c867.css.map",
+    "main.ecea2195.js.map": "/dorem-gipsum/static/js/main.ecea2195.js.map",
+    "947.b383b4c6.chunk.css.map": "/dorem-gipsum/static/css/947.b383b4c6.chunk.css.map",
+    "947.01976056.chunk.js.map": "/dorem-gipsum/static/js/947.01976056.chunk.js.map",
+    "403.099d863d.chunk.css.map": "/dorem-gipsum/static/css/403.099d863d.chunk.css.map",
+    "403.174c7e9b.chunk.js.map": "/dorem-gipsum/static/js/403.174c7e9b.chunk.js.map",
+    "513.823ae5d6.chunk.js.map": "/dorem-gipsum/static/js/513.823ae5d6.chunk.js.map",
+    "44.93b2175d.chunk.js.map": "/dorem-gipsum/static/js/44.93b2175d.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.ee242e4f.js",
-    "static/js/2.40809b23.chunk.js",
-    "static/css/main.1e02fa42.chunk.css",
-    "static/js/main.3aa17aa1.chunk.js"
+    "static/css/main.4331c867.css",
+    "static/js/main.ecea2195.js"
   ]
 }
